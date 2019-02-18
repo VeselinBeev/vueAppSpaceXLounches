@@ -1,6 +1,4 @@
-# yes
 
-> y
 
 ## Build Setup
 
